@@ -1,6 +1,6 @@
 # HU-DSA-Project
 # Introduction
-Car Rental System is a console-based organized system that deals with the complexities of renting cars. It is put to the end by the efforts of Muhammad Meesum Ali Qazalbash, Syed Abbass Haider Taqvi and Syed Safi Haider Rizvi.
+Car Rental System is a console-based organized system that deals with the complexities of renting cars. It is put to the end by the efforts of Muhammad Meesum Ali Qazalbash, Syed Abbas Haider Taqvi and Syed Safi Haider Rizvi.
 # Motivation
 Our team wanted to create a real-life practical project, which has mainly two main features,
 1. We can extend its concept in a later OOP course.
