@@ -1,4 +1,4 @@
-# HU-DSA-Project
+# Car Rental System
 # Introduction
 Car Rental System is a console-based organized system that deals with the complexities of renting cars. It is put to the end by the efforts of Muhammad Meesum Ali Qazalbash, Syed Abbas Haider Taqvi and Syed Safi Haider Rizvi.
 # Motivation
